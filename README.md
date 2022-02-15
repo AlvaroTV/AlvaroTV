@@ -17,7 +17,12 @@ Here are some ideas to get you started:
 
 ---
 
-I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
+Hello! I’m Alvaro from Mexico.  
+Currently studying **computer systems engineering**.
+
+I enjoy creating things for the internet whether that be a website or an application or anything in between which is not only functional but also beautiful bringing elegant experience.
+
+When I'm not studying or working, I'm probably playing video games or taking photos  🎮 📷.
  
  🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
  
@@ -27,9 +32,7 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
  
  👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
  
- 🤔 I’m looking for help with [Github Blog Cards](https://github.com/Souravdey777/Github-Cards-External-Blogs).
  
- 📷 I also like photography c:
 
 ---
 
@@ -51,10 +54,6 @@ I am a Full-stack Mobile and Web Developer who is exploring Cloud :cloud: while 
 <img src="https://img.shields.io/badge/-Python-green?style=flat&logo=python&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"> 
-
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AlvaroTV&show_icons=true&hide_border=true)
 
 ---
 
