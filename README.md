@@ -24,11 +24,11 @@ I enjoy creating things for the internet whether that be a website or an applica
 
 When I'm not studying or working, I'm probably playing video games or taking photos  🎮 📷.
  
- 🔭 I’m planning for a Project **Vision: ML-based System for Blinds**.
+ 🔭 I’m planning for a Project **NLP: System for Classify School Documents**.
  
- 🌱 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> Google Cloud Platform
+ 🌱 I’m currently learning <https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white> Tensorflow
  
- :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/>
+ :books: I want to learn <https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white> and <https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white>
  
  👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
  
