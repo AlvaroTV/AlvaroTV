@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+🤖
 -->
 
 ---
@@ -26,11 +27,11 @@ When I'm not studying or working, I'm probably playing video games or taking pho
  
  🔭 I’m planning for a Project **NLP: System for Classify School Documents**.
  
- 🌱 I’m currently learning <https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white> Tensorflow
+ 🤖 I’m currently learning <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
  
- :books: I want to learn <https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white> and <https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white>
+ :books: I want to learn <img src="https://img.shields.io/badge/Google%20Analytics-yellowgreen?style=flat&logo=google%20analytics&logoColor=white"> and <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
  
- 👯 I’m looking to collaborate for a Flutter and ML-based project **Doc App**.
+ 👯 I’m looking to collaborate for a Deep Learning and ML-based project.
  
  
 
