@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 🤖
+Pagina para ver los iconos disponibles: https://github.com/alexandresanlim/Badges4-README.md-Profile#-artificial-intelligence-
 -->
 
 ---
