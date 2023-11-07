@@ -30,8 +30,7 @@ When I'm not studying or working, I'm probably playing video games or taking pho
  
  🤖 I’m currently learning <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
  
- :books: I want to learn <img src="https://img.shields.io/badge/Google%20Analytics-yellowgreen?style=flat&logo=google%20analytics&logoColor=white"> and <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white">
- 
+ :books: I want to learn <img src="https://img.shields.io/badge/Google%20Analytics-yellowgreen?style=flat&logo=google%20analytics&logoColor=white">  
  👯 I’m looking to collaborate for a Deep Learning and ML-based project.
  
  
