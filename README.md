@@ -20,17 +20,17 @@ Pagina para ver los iconos disponibles: https://github.com/alexandresanlim/Badge
 ---
 
 Hello! I’m Alvaro from Mexico.  
-Currently studying **computer systems engineering**.
 
 I enjoy creating things for the internet whether that be a website or an application or anything in between which is not only functional but also beautiful bringing elegant experience.
 
 When I'm not studying or working, I'm probably playing video games or taking photos  🎮 📷.
  
- 🔭 I’m planning for a Project **NLP: System for Classify School Documents**.
+ 🔭 I'm developing models for image processing using Pytorch <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white">
  
  🤖 I’m currently learning <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white">
  
- :books: I want to learn <img src="https://img.shields.io/badge/Google%20Analytics-yellowgreen?style=flat&logo=google%20analytics&logoColor=white">  
+ :books: I want to learn Natural Language Processing (NLP) and how Large Languaje Models (LLM) works!
+ 
  👯 I’m looking to collaborate for a Deep Learning and ML-based project.
  
  
@@ -52,6 +52,8 @@ When I'm not studying or working, I'm probably playing video games or taking pho
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 <img src="http://img.shields.io/badge/-Vercel-black?style=flat&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
 
 ### Languages I know
 <img src="https://img.shields.io/badge/-Python-green?style=flat&logo=python&logoColor=white">
